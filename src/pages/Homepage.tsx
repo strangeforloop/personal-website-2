@@ -9,9 +9,9 @@ function Homepage() {
       <section className="hero">
         <div className="hero-content">
           <div className="hero-image-container">
-            <img 
-              src={selfPortrait} 
-              alt="Anna Agoha" 
+            <img
+              src={selfPortrait}
+              alt="Anna Agoha"
               className="hero-image"
             />
           </div>
@@ -21,42 +21,34 @@ function Homepage() {
                 Creative Platform Engineer building reliable, human-centered systems at scale.
             </p>
             <div className="hero-icons">
-              <a 
-                href="https://linkedin.com/in/anna-agoha" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="icon-link"
-                aria-label="LinkedIn"
-              >
-                <div 
-                  className="icon-svg" 
-                  style={{ 
-                    WebkitMaskImage: `url(${linkedinIcon})`,
-                    maskImage: `url(${linkedinIcon})`,
-                    backgroundColor: 'var(--accent-color)'
-                  }}
-                  role="img"
-                  aria-label="LinkedIn"
-                />
-              </a>
-              <a 
-                href="https://github.com/strangeforloop" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="icon-link"
-                aria-label="GitHub"
-              >
-                <div 
-                  className="icon-svg" 
-                  style={{ 
-                    WebkitMaskImage: `url(${githubIcon})`,
-                    maskImage: `url(${githubIcon})`,
-                    backgroundColor: 'var(--accent-color)'
-                  }}
-                  role="img"
-                  aria-label="GitHub"
-                />
-              </a>
+            <a 
+  href="https://linkedin.com/in/anna-agoha" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="icon-link"
+  aria-label="LinkedIn"
+>
+  <img
+    src={linkedinIcon}
+    alt="LinkedIn"
+    className="icon-svg"
+  />
+</a>
+
+<a 
+  href="https://github.com/strangeforloop" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="icon-link"
+  aria-label="GitHub"
+>
+  <img
+    src={githubIcon}
+    alt="GitHub"
+    className="icon-svg"
+  />
+</a>
+
             </div>
           </div>
         </div>
@@ -65,23 +57,22 @@ function Homepage() {
       <section className="content-section">
         <h2>About Me</h2>
         <p>
-        Hi, I’m Anna — a full-stack and platform engineer who loves building scalable systems end-to-end.
-One of my early roles was in digital health, where I helped build the first wave of digital therapeutics at Pear Therapeutics, including an FDA-regulated digital therapeutic for major depressive disorder. There, I built scalable frontend and backend features using React, React Native, TypeScript, GraphQL, and event-driven architecture to deliver scalable, user-centered experiences. That experience taught me to approach engineering with both scale and intention and to build systems that are technically sound, product-driven, and aligned with real user needs.
+          Hi, I'm Anna, a full-stack and platform engineer who loves building scalable systems end-to-end.
+          One of my early roles was in digital health, where I helped build the first wave of digital therapeutics at Pear Therapeutics, including an FDA-regulated digital therapeutic for major depressive disorder. There, I built scalable frontend and backend features using React, React Native, TypeScript, GraphQL, and event-driven architecture to deliver scalable, user-centered experiences. That experience taught me to approach engineering with both scale and intention and to build systems that are technically sound, product-driven, and aligned with real user needs.
 
-<br></br><br></br>
-Today, I’m a Platform Engineer at Wells Fargo, designing and maintaining foundation-level services used across 40+ internal applications. My work spans everything from backend architecture and data flows to the frontend dashboards engineers rely on 
-<br></br><br></br>
-Across my roles, I’ve consistently owned products from concept to deployment, bridging design, infrastructure, and user needs to build systems that scale and make positive impacts on the world.
-
+          <br></br><br></br>
+          Today, I'm a Platform Engineer at Wells Fargo, designing and maintaining foundation-level services used across 40+ internal applications. My work spans everything from backend architecture and data flows to the frontend dashboards engineers rely on
+          <br></br><br></br>
+          Across my roles, I've consistently owned products from concept to deployment, bridging design, infrastructure, and user needs to build systems that scale and make positive impacts on the world.
         </p>
       </section>
 
       <section className="content-section">
         <h2>Featured Projects</h2>
         <div className="projects-grid">
-          <a 
-            href="https://github.com/strangeforloop/react-mulitplayer-ai" 
-            target="_blank" 
+          <a
+            href="https://github.com/strangeforloop/react-mulitplayer-ai"
+            target="_blank"
             rel="noopener noreferrer"
             className="project-card project-card-link"
           >

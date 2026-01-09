@@ -93,6 +93,7 @@
   -webkit-mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
+  /* background-color: var(--accent-color); */
 }
 
 .icon-link:hover .icon-svg {

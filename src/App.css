@@ -100,3 +100,9 @@
   transition: background-color 0.3s ease;
 }
 
+.icon-svg {
+  width: 32px;
+  height: 32px;
+  display: block;
+  fill: var(--accent-color);
+}
