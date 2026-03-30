@@ -85,11 +85,11 @@ function Homepage() {
             rel="noopener noreferrer"
             className="project-card project-card-link"
           >
-            <h3>AI-driven Spotify Playlist Builder</h3>
-            <p>An AI-driven Spotify playlist builder using Node.js, Express, and Last.fm, converting user mood descriptions and seed tracks into fully generated Spotify playlists.</p>
+            <h3>Responsive Bauhaus</h3>
+            <p>An experiment of what Bauhaus design looks like on the responsive web using CSS Grid.</p>
           </a>
           <a
-            href="https://github.com/strangeforloop/personal-website"
+            href="https://strangeforloop.github.io/Responsive-Bauhaus/"
             target="_blank"
             rel="noopener noreferrer"
             className="project-card project-card-link"
