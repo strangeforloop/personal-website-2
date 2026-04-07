@@ -37,6 +37,21 @@ The built files will be in the `dist` directory.
 npm run preview
 ```
 
+## Deploy To GitHub Pages
+
+1. Ensure this repository is pushed to GitHub.
+2. In GitHub, go to **Settings -> Pages** and set:
+   - **Source**: `Deploy from a branch`
+   - **Branch**: `gh-pages` and `/ (root)`
+3. From your project root, run:
+
+```bash
+npm run deploy
+```
+
+Your site will publish to:
+`https://<your-github-username>.github.io/Portfolio_Website/`
+
 ## Project Structure
 
 ```
