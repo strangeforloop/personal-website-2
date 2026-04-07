@@ -61,7 +61,7 @@ function Homepage() {
           One of my early roles was in digital health, where I helped build the first wave of digital therapeutics at Pear Therapeutics, including an FDA-regulated digital therapeutic for major depressive disorder. There, I built scalable frontend and backend features using React, React Native, TypeScript, GraphQL, and event-driven architecture to deliver scalable, user-centered experiences. That experience taught me to approach engineering with both scale and intention and to build systems that are technically sound, product-driven, and aligned with real user needs.
 
           <br></br><br></br>
-          Today, I'm a Platform Engineer at Wells Fargo, designing and maintaining foundation-level services used across 40+ internal applications. My work spans everything from backend architecture and data flows to the frontend dashboards engineers rely on
+          Today, I'm a Platform Engineer at Wells Fargo, designing and maintaining foundation-level services used across 40+ internal applications. My work spans everything from backend architecture and data flows to the frontend dashboards engineers rely on.
           <br></br><br></br>
           Across my roles, I've consistently owned products from concept to deployment, bridging design, infrastructure, and user needs to build systems that scale and make positive impacts on the world.
         </p>
