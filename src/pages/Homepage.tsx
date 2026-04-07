@@ -71,7 +71,7 @@ function Homepage() {
         <h2>Featured Projects</h2>
         <div className="projects-grid">
           <a
-            href="https://github.com/strangeforloop/react-mulitplayer-ai"
+            href="https://strangeforloop.github.io/react-mulitplayer-ai/"
             target="_blank"
             rel="noopener noreferrer"
             className="project-card project-card-link"
@@ -80,7 +80,7 @@ function Homepage() {
             <p>The AI uses the Minimax Algorithm that will always find the best move in this multiplayer Tic-Tac-To game.</p>
           </a>
           <a
-            href="https://github.com/strangeforloop/Spotify-Recommended-Playlist"
+            href="https://strangeforloop.github.io/Responsive-Bauhaus/"
             target="_blank"
             rel="noopener noreferrer"
             className="project-card project-card-link"
@@ -89,7 +89,7 @@ function Homepage() {
             <p>An experiment of what Bauhaus design looks like on the responsive web using CSS Grid.</p>
           </a>
           <a
-            href="https://strangeforloop.github.io/Responsive-Bauhaus/"
+            href="https://github.com/strangeforloop/personal-website"
             target="_blank"
             rel="noopener noreferrer"
             className="project-card project-card-link"
