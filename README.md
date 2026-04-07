@@ -2,14 +2,6 @@
 
 A modern portfolio website built with React, TypeScript, and Vite.
 
-## Features
-
-- **Homepage**: Showcase your work, skills, and experiences
-- **Articles**: Blog section for sharing thoughts and tutorials
-- **Modern UI**: Clean and responsive design
-- **TypeScript**: Type-safe development
-- **React Router**: Client-side routing
-
 ## Getting Started
 
 ### Prerequisites
