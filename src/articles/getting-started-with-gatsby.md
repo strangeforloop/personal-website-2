@@ -1,9 +1,8 @@
 Recently, I created a personal website/blog using GatsbyJS and learned a lot of things along the way. If you're new to GatsbyJS, I hope that the lessons I learned will help you with your project. 
 
 *Disclaimer*: This is NOT a Gatsby tutorial, but a set of Gatsby-related tips I learned while using Gatsby.
-<br/><br/>
   
-And with that, let's get started!<br/>
+And with that, let's get started!
 
 ![Leonardo DiCaprio raising a glass from The Great Gatsby](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif)
 
