@@ -59,14 +59,15 @@ function Homepage() {
       <section className="content-section">
         <h2>About Me</h2>
         <p>
-          Hi, I'm Anna, a full-stack engineer who loves building scalable systems.
-          One of my early roles was in digital health, where I helped build the first wave of digital therapeutics at Pear Therapeutics, including an FDA-regulated digital therapeutic for major depressive disorder and insomnia. That work ingrained in me a user-centered approach to engineering and a commitment to building products that are reliable at scale.
-
+          Hi, I'm Anna, a full-stack engineer who loves building software that makes a real difference.
+          One of my early roles was in digital health, where I helped build the first wave of digital therapeutics at Pear Therapeutics, including FDA-regulated digital therapeutics for major depressive disorder and insomnia. That work ingrained in me a user-centered approach to engineering and a commitment to building software that is reliable.
           <br></br><br></br>
           That conviction followed me most recently into platform engineering at Wells Fargo, where I designed and maintained foundational services that over 40 internal application teams depended on.          
           <br></br><br></br>
-          Across my roles, I've consistently owned products from concept to deployment, bridging backend architecture, frontend work, and real user needs. Whether I'm building for end users or internal engineering teams, I care about the same things: making products that hold up, are genuinely helpful, and make a big difference.
-        </p>
+          Across all of my roles, I've consistently owned products from concept to deployment by bridging backend architecture, frontend work, and user needs. Whether I'm building for end users or internal engineering teams, I care about the same things, which is making products that hold up, are genuinely helpful, and make a big difference.
+          <br></br><br></br>
+          If you want to chat about software, design, or anything in between, email me at <b>annaagoha@gmail.com</b>.
+        </p>  
       </section>
 
       <section className="content-section">
