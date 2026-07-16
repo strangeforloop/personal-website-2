@@ -59,14 +59,14 @@ function Homepage() {
       <section className="content-section">
         <h2>About Me</h2>
         <p>
-          Hi, I'm Anna, a full-stack engineer who loves building software that makes a real difference.
-          One of my early roles was in digital health, where I helped build the first wave of digital therapeutics at Pear Therapeutics, including FDA-regulated digital therapeutics for major depressive disorder and insomnia. That work ingrained in me a user-centered approach to engineering and a commitment to building software that is reliable.
+          Hi! I'm Anna, a full-stack engineer and a maker at heart. I build software because I love figuring out how things work and then making them work better.
+          One of my early roles was in digital health, where I helped build the first wave of digital therapeutics at Pear Therapeutics, including treatments for major depressive disorder and insomnia. Working directly with patients and healthcare providers solidified my user-centered approach to engineering and a commitment to building software that is reliable in real-world applications.
           <br></br><br></br>
-          That conviction followed me most recently into platform engineering at Wells Fargo, where I designed and maintained foundational services that over 40 internal application teams depended on.          
+          Most recently, I've been working in platform engineering at Wells Fargo, where I focused on observability and reliablity and maintained foundational services that over 40 internal application teams depended on.          
           <br></br><br></br>
-          Across all of my roles, I've consistently owned products from concept to deployment by bridging backend architecture, frontend work, and user needs. Whether I'm building for end users or internal engineering teams, I care about the same things, which is making products that hold up, are genuinely helpful, and make a big difference.
+          Across my roles, I've consistently owned products from concept to deployment by bridging backend architecture, frontend design, and user needs.
           <br></br><br></br>
-          If you want to chat about software, design, or anything in between, email me at <b>annaagoha@gmail.com</b>.
+          If you want to chat about software, design, or anything in between, I'd love to hear from you: <b>annaagoha@gmail.com</b>.
         </p>  
       </section>
 

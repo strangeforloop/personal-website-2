@@ -53,6 +53,19 @@ function AppContent() {
           <Route path="/articles/:slug" element={<ArticleDetail />} />
         </Routes>
       </main>
+
+      <footer className="footer">
+        <p>
+          <a
+            href="https://www.flaticon.com/free-icons/flower"
+            title="flower icons"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Flower icons created by GOWI - Flaticon
+          </a>
+        </p>
+      </footer>
     </div>
   )
 }
